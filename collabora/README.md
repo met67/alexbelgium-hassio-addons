@@ -44,7 +44,7 @@ Webui can be found at `https://homeassistant:9980/browser/dist/admin/admin.html`
 ### Options
 
 | Option | Type | Default | Description |
-|--------|------|---------|-------------|
+| -------- | ------ | --------- | ------------- |
 | `aliasgroup1` | str | | Nextcloud external domain with escaped dots using two \ (e.g. `nextcloud_domain\\.com`) |
 | `domain1` | str | | Collabora external domain with escaped dots using two \ (e.g. `code_domain\\.com`) |
 | `extra_params` | str | | Extra parameters passed to the Collabora start script |
