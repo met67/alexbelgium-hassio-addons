@@ -76,7 +76,7 @@ Create `/config/addons_config/epicgamesfree/config.json`:
 ### Configuration Options
 
 | Option | Type | Description |
-|--------|------|-------------|
+| -------- | ------ | ------------- |
 | `accounts` | array | List of Epic Games accounts |
 | `intervalHours` | number | Check interval in hours (default: 24) |
 | `onlyWeekly` | boolean | Only claim weekly free games |
