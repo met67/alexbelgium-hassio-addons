@@ -44,7 +44,7 @@ Configurations can be done through the app webUI, except for the following optio
 ### Options
 
 | Option | Type | Default | Description |
-|--------|------|---------|-------------|
+| -------- | ------ | --------- | ------------- |
 | `hidden_services` | bool | `true` | Enable Tor hidden services |
 | `http_tunnel` | bool | `false` | Enable HTTP tunnel on port 9080 |
 | `socks` | bool | `false` | Enable SOCKS proxy |

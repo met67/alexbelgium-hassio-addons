@@ -33,7 +33,7 @@ Webui can be found at `<your-ip>:8171`.
 ### Options
 
 | Option | Type | Default | Description |
-|--------|------|---------|-------------|
+| -------- | ------ | --------- | ------------- |
 | `ImmichServerUrl` | str | **Required** | URL of your Immich server (e.g., `http://homeassistant:3001`) |
 | `ApiKey` | str | **Required** | Immich API key for authentication |
 | `TZ` | str | | Timezone (e.g., `Europe/London`) |
